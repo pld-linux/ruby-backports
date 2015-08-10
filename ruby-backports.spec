@@ -1,12 +1,12 @@
 %define	pkgname	backports
 Summary:	Backports of Ruby features for older Ruby
 Name:		ruby-%{pkgname}
-Version:	3.3.5
+Version:	3.6.6
 Release:	1
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	3d213a3433b792dee132ecdfbc0a882c
+# Source0-md5:	1a4e799119c37f03342543e461780f89
 URL:		http://github.com/marcandre/backports
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
