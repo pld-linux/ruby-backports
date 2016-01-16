@@ -2,7 +2,7 @@
 Summary:	Backports of Ruby features for older Ruby
 Name:		ruby-%{pkgname}
 Version:	3.6.6
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
